@@ -26,12 +26,6 @@ This project demonstrates a **low-cost IoT solution** for **real-time monitoring
 - 12V Battery
 - Jumper Wires
 
-## 💻 **Software Used**
-
-- **Arduino IDE** 
-- **Blynk IoT Platform** 
-- **C / Arduino Code** 
-
 
 ## 🚀 **Getting Started**
 
