@@ -3,20 +3,20 @@
 This project demonstrates a **low-cost IoT solution** for **real-time monitoring** of soil and environmental conditions to help farmers optimize irrigation manually. Using **NodeMCU ESP8266**, **DHT11 sensors**, and a **soil moisture sensor**, the system streams live data to the **Blynk IoT platform**, allowing farmers to monitor conditions remotely and decide when to irrigate for maximum crop yield and water efficiency.
 
 
-## 🌱 **Project Objective**
+## **Project Objective**
 
 - Enable farmers to track **soil moisture**, **temperature**, and **humidity** in real time.
 - Help farmers make **informed irrigation decisions**, reducing water wastage and improving yield.
 - Provide an affordable prototype that can be scaled for urban rooftops and plantations.
 
-## ⚙️ **How It Works**
+## **How It Works**
 
 - **Sensors:** Soil moisture sensor measures soil water content; DHT11 captures temperature and humidity.
 - **Microcontroller:** NodeMCU ESP8266 reads sensor data and sends it to the Blynk app over Wi-Fi.
 - **Blynk App:** Displays live data on a smartphone dashboard, allowing the farmer to monitor and manually control watering as needed.
 
 
-## 🧩 **Hardware Used**
+## **Hardware Used**
 
 - NodeMCU ESP8266 Wi-Fi Module
 - DHT11 Temperature & Humidity Sensor
@@ -27,7 +27,7 @@ This project demonstrates a **low-cost IoT solution** for **real-time monitoring
 - Jumper Wires
 
 
-## 🚀 **Getting Started**
+## **Getting Started**
 
 1. **Connect Hardware:** Wire up the NodeMCU with the DHT11 and soil moisture sensor.
 2. **Configure Blynk:**  
@@ -40,6 +40,6 @@ This project demonstrates a **low-cost IoT solution** for **real-time monitoring
 4. **Monitor:** Open the Blynk app to see real-time values and make manual watering decisions.
 
 
-## 📈 **Impact**
+## **Impact**
 
 This prototype demonstrates how IoT can help solve water scarcity challenges in agriculture by encouraging **efficient manual irrigation**, saving water, and increasing productivity, especially in water-scarce regions.
